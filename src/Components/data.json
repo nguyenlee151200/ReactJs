@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "Grimm DC",
+        "tel" : "0912893238123",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Grimm Man",
+        "tel" : "0912893223",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Grimm Women",
+        "tel" : "093238123",
+        "permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Grimm Boy",
+        "tel" : "0912893238123123",
+        "permission" : 2
+    }
+]
